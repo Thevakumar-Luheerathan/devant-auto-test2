@@ -1,0 +1,8 @@
+[package]
+org = "wso2"
+name = "devant_auto_test"
+version = "0.1.0"
+distribution = "2201.8.8"
+
+[build-options]
+observabilityIncluded = true
